@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dyygtfx/nusr.git"
+    "url": "git+https://github.com/dyygtfx/dusr.git"
   },
   "keywords": [],
   "author": "",
@@ -16,5 +16,5 @@
   "bugs": {
     "url": "https://github.com/dyygtfx/nusr/issues"
   },
-  "homepage": "https://github.com/dyygtfx/nusr#readme"
+  "homepage": "https://github.com/dyygtfx/dusr#readme"
 }

@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dyygtfx/nusr/issues"
   },
-  "homepage": "https://github.com/dyygtfx/dusr#readme"
+  "homepage": "https://github.com/dyygtfx/dusr#readme",
+  "dependencies": {
+    "@babel/parser": "^7.10.5"
+  }
 }
